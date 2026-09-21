@@ -7,6 +7,7 @@ Repeatable configuration guides and scripts for Codex.
 The macOS setup adds Ollama models to the Codex desktop model picker while preserving the OpenAI models available through an existing ChatGPT sign-in. It does not require an OpenAI API key.
 
 - [Complete macOS guide](docs/codex-local-models-macos.md)
+- [Share Second Brain, skills, and connectors with local models](docs/shared-context-skills-connectors.md)
 - [Setup script](scripts/setup-codex-local-models-macos.sh)
 - [Verification script](scripts/verify-codex-local-models-macos.sh)
 
